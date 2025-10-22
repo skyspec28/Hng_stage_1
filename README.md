@@ -1,4 +1,4 @@
-# Backend Wizards — Stage 1: String Analyzer Service
+Stage 1: String Analyzer Service
 
 A FastAPI application that analyzes strings and stores their computed properties. The service provides comprehensive string analysis including length calculation, palindrome checking, unique character counting, and more.
 
